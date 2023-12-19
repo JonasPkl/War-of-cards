@@ -6,7 +6,7 @@ Popular card game. You score one point if your card is bigger than dealers.
 ## How to play
 
 Clone:
-git clone https://github.com/Sauliukaser/Lietuvos-miestai.git
+git clone https://github.com/JonasPkl/War-of-cards.git
 
 Install requirements:
 pip install -r requirements.txt
